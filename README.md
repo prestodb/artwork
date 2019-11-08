@@ -13,22 +13,22 @@
 		<th width="150">RGB</th>
 		<th width="150">Hex</th>
 	</tr>
-		<td><img src="/Presto_Foundation/other/5F89D8.svg width="20"></td>
+		<td><img src="/Presto_Foundation/other/5F89D8.svg" width="20"></td>
 		<td>(95, 137, 216)</td>
 		<td>#5F89D8</td>
 	</tr>
 	</tr>
-		<td><img src="/Presto_Foundation/other/3DDCFD.svg width="20"></td>
+		<td><img src="/Presto_Foundation/other/3DDCFD.svg" width="20"></td>
 		<td>(61, 220, 253)</td>
 		<td>#3DDCFD</td>
 	</tr>
 	</tr>
-		<td><img src="/Presto_Foundation/other/000000.svg width="20"></td>
+		<td><img src="/Presto_Foundation/other/000000.svg" width="20"></td>
 		<td>(0, 0, 0)</td>
 		<td>#000000</td>
 	</tr>
 	</tr>
-		<td><img src="/Presto_Foundation/other/FFFFFF.svg width="20"></td>
+		<td><img src="/Presto_Foundation/other/FFFFFF.svg" width="20"></td>
 		<td>(255, 255, 255)</td>
 		<td>#FFFFFF</td>
 	</tr>
