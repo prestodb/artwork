@@ -84,6 +84,6 @@
     </tr>
 </table>
 
-Use of any trademark or logo is subject to the trademark policy available at [https://www.linuxfoundation.org/trademark-usage](https://www.linuxfoundation.org/trademark-usage)
+Use of any trademark or logo is subject to the trademark policy available at [https://lfprojects.org/policies/trademark-policy/](https://lfprojects.org/policies/trademark-policy/)
 
 Questions? Please email [trademark@prestodb.io](mailto:trademark@prestodb.io).
